@@ -72,7 +72,7 @@ button{
 .result{
     height:calc(100vh - 85px);
     width:calc(100% - 20px);
-    /*background-color:#073d49ff;*/
+    background-color:#073d49ff;
     margin:0px auto 10px auto;
     border-radius:8px;
     backdrop-filter:blur(1px) opacity(0.5);
